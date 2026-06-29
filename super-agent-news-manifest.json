@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[venturebeat.com](https://venturebeat.com/ai/contrario-launches-the-case-for-pairing-ai-agents-with-human-recruiters-instead-of-replacing-them/)",
+    "[techtarget.com](https://www.techtarget.com/searchhrsoftware/feature/Top-AI-recruiting-tools-and-software)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_math=2-3 lines @1120px; bento_density=grid-auto-flow:dense verified; label_sweep=competitors mentioned; button_contrast=black/white pills pass",
+  "generated_at": "2026-06-29T23:39:09.153203+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page for recruiters who live inside LinkedIn, ATSs, calendars, and email. It shows how Super\u2019s personal AI agents actually operate recruiting tools, reuse a computer\u2011use cache for repeated sourcing and scheduling, and contrasts fairly with ChatGPT, Gemini, Grok, Siri, Folk, and Orchids using current market evidence."
+}
